@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color:  orange;
+    background-color:limegreen;
     height: 70px;
     
 }
@@ -65,7 +65,7 @@ h1 {
     top: 50%;
     left: 36%;
     position: absolute;
-    color:chocolate;
+    color:red;
     font-size: 72px;
 }
 .firstTable {
@@ -96,7 +96,7 @@ table {
 	height: 264px;
 	margin: 0px;
 	padding: 0px;
-	background-color:lightpink ;
+	background-color:chocolate;
 }
 .parent {
 	float:left;
@@ -115,7 +115,7 @@ table {
 
 footer {
 	clear: both;
-    background-color: red;
+    background-color:orange;
     height: 40px;
     }
 
